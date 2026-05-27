@@ -1,13 +1,11 @@
-I build stuff I actually use.
+I build stuff to learn and to actually use.
 
-**chessformer**: Chess engine that plays like a human.
+#### Personal projects
 
-**training-os**: Training platform with a coach that sees my sessions.
+- 🏃 **[training-os](https://github.com/edarsem/training-os)** — my own training platform with a coach that actually sees my sessions. FastAPI backend, MCP-based LLM chat that can actually query my Strava data, reverse eng of Corros with TL/ATL/CTL/ACWR analytics. Born out of frustration of lack of integration between chatbots and physiologic data.
+- ♟️ **[chessformer](https://github.com/edarsem/chessformer)** — a transformer trained from scratch to play a human moves, not the best moves. Eventual goals: feeling bar instead of eval bar, cheating detection, player style imitation, clock-situation aware engine, beatable bots at every level. Currently being rebuilt properly.
 
-**ReWiSe**: LLM knowledge probing that won a competition.
+#### Stuff I've worked on
 
-**ConnectZero**: Playing with variants of AlphaZero.
-
-Building stuff to learn ;)
-
-NLP/ML by training, curious by default.
+- 🧠 **[ReWiSe](https://github.com/Lama-West/ReWiSe)** — my MSc research at Mila / LAMA-WeST. Knowledge extraction from LLMs with relation-wise self-consistency. Won [LM-KBC 2025](https://lm-kbc.github.io/).
+- 🎮 **[ConnectZero](https://github.com/edarsem/ConnectZero)** — self-play dynamics for RL agents on Connect 4.
