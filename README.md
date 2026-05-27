@@ -7,5 +7,5 @@ I build stuff to learn and to actually use.
 
 #### Stuff I've worked on
 
-- 🧠 **[ReWiSe](https://github.com/Lama-West/ReWiSe)** — my MSc research at Mila / LAMA-WeST. Knowledge extraction from LLMs with relation-wise self-consistency. Won [LM-KBC 2025](https://lm-kbc.github.io/).
+- 🧠 **[ReWiSe](https://github.com/Lama-West/ReWiSe)** — my MSc research at Mila / LAMA-WeST. Knowledge extraction from LLMs with relation-wise self-consistency. Won [LM-KBC 2025](https://lm-kbc.github.io/challenge2025/).
 - 🎮 **[ConnectZero](https://github.com/edarsem/ConnectZero)** — self-play dynamics for RL agents on Connect 4.
